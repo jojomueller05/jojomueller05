@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @jojomueller05
 - 👀 I’m interested in:
 - Powershell
-- HTML, CSS, JS, PHP, Linux and everything that has to do with computer science!
+- Webdevelopement
+- Linux 
+- Network stuff and everything that has to do with computer science!
 - 🌱 I’m currently learning:
 - Network baisics
 - Backup and restore
