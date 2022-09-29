@@ -1,6 +1,6 @@
 # Hi there
 
-I'm Jojomueller05!  
+I'm Joël Julien Müller!  
 Student at TBZ Zurich as Information Technologist
 
 ## 💻 I'm Currently learning 
