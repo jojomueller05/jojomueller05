@@ -1,21 +1,24 @@
 # Hi there
 
 I'm Joël Julien Müller!  
-Student at TBZ Zurich as Information Technologist
+Student at TBZ Zurich as Information Technologist.
+I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 
 ## 💻 I'm Currently learning 
 
-- Git
-- PHP
-- SQL
+- SQL and Databases
+- Networks
 
 ## 💯 Skills learned
 
 - Powershell - Scripting
-- HTML _basics_
-- CSS _basics_
-- JavaScript _basics_
-
+- Bash - Scripting
+- Git
+- HTML 
+- CSS
+- Bootstrap 5 
+- JavaScript
+- PHP 
 
 
 <!---
