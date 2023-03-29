@@ -7,7 +7,8 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 ## 💻 I'm Currently learning 
 
 - SQL and Databases
-- Networks
+- Networking
+- Docker
 
 ## 💯 Skills learned
 
@@ -19,7 +20,6 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 - Bootstrap 5 
 - JavaScript
 - PHP 
-
 
 <!---
 jojomueller05/jojomueller05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
