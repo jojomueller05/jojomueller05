@@ -6,9 +6,8 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 
 ## 💻 I'm Currently learning 
 
-- SQL and Databases
-- Networking
-- Docker
+- Arduino (simple project)
+- What is Project Management?
 
 ## 💯 Skills learned
 
@@ -18,8 +17,12 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 - HTML 
 - CSS
 - Bootstrap 5 
-- JavaScript
-- PHP 
+- JavaScript - basics
+- PHP - basics
+- Docker & Docker-Compose
+- Networking
+- SQL
+    - MariaDB & Sqlite
 
 <!---
 jojomueller05/jojomueller05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
