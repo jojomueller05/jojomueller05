@@ -7,22 +7,61 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 ## 💻 I'm Currently learning 
 
 - Arduino (simple project)
-- What is Project Management?
+- Project Management (Basics)
 
 ## 💯 Skills learned
 
+### 🔧IT Infrastructure
+- Networking
 - Powershell - Scripting
 - Bash - Scripting
-- Git
-- HTML 
+- Windows Server 2019
+- Linux (Ubuntu LTS)
+- Docker
+- Hyper-V, Virtual Box
+
+### 🌐Webdevelopement
+- HTML
 - CSS
-- Bootstrap 5 
-- JavaScript - basics
+- JavaScript (Baisic Frontend)
+- Bootstrap 5
 - PHP - basics
-- Docker & Docker-Compose
-- Networking
+- Docker-Compose
+
+### 💾Database
 - SQL
-    - MariaDB & Sqlite
+- MariaDB (in Docker)
+- Sqlite
+
+### ✨Other
+- Git
+
+## 👀Bucketlist
+- Devcontainer (VSCode)
+- Frontend librarys
+    - React.js
+    - Angular
+    - Vue
+- Web Backend
+    - Node.JS
+        - Express.js
+        - Next.js
+    - Flask
+    - Django
+- Python
+- C / C++ /C#
+- Databases
+    - PostgreSQL
+    - MongoDB
+- AI / KI
+- Mobile Developement
+    - Electron.js
+    - Kotlin
+    - Java
+- Wordpress Theme / Plugin
+- ERP Development
+- Contribute to open source project
+- IOT project
 
 <!---
 jojomueller05/jojomueller05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
