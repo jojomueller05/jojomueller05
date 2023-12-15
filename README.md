@@ -5,9 +5,7 @@ Student at TBZ Zurich as Information Technologist.
 I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 
 ## 💻 I'm Currently learning 
-
-- Arduino (simple project)
-- Project Management (Basics)
+- Microsoft Active Directory
 
 ## 💯 Skills learned
 
@@ -18,7 +16,7 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 - Windows Server 2019
 - Linux (Ubuntu LTS)
 - Docker
-- Hyper-V, Virtual Box
+- Hyper-V, Virtual Box, Proxmox
 
 ### 🌐Webdevelopement
 - HTML
@@ -26,7 +24,6 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 - JavaScript (Baisic Frontend)
 - Bootstrap 5
 - PHP - basics
-- Docker-Compose
 
 ### 💾Database
 - SQL
@@ -35,6 +32,8 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 
 ### ✨Other
 - Git
+- Project Management (Basics)
+- Arduino (simple project)
 
 ## 👀Bucketlist
 - Devcontainer (VSCode)
@@ -42,6 +41,7 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
     - React.js
     - Angular
     - Vue
+    - Svelte
 - Web Backend
     - Node.JS
         - Express.js
@@ -58,11 +58,13 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
     - Electron.js
     - Kotlin
     - Java
-- Wordpress Theme / Plugin
+- Wordpress 
 - ERP Development
 - Contribute to open source project
 - IOT project
-
+- HashiCorp
+    - Packer
+    - Terraform
 <!---
 jojomueller05/jojomueller05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
