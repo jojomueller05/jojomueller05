@@ -5,23 +5,31 @@ Student at TBZ Zurich as Information Technologist.
 I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 
 ## 💻 I'm Currently learning 
-- Microsoft Active Directory
+- React.js
+- express.js
 
 ## 💯 Skills learned
 
 ### 🔧IT Infrastructure
+- Microsoft Active Directory (On premise)
 - Networking
+    - OPNsense
+    - PFsense
+    - IPv4    
 - Powershell - Scripting
 - Bash - Scripting
 - Windows Server 2019
-- Linux (Ubuntu LTS)
-- Docker
+- Linux
+    - Ubuntu
+    - Arch
+    - Kali 
+- Docker, Docker Compose
 - Hyper-V, Virtual Box, Proxmox
 
 ### 🌐Webdevelopement
 - HTML
 - CSS
-- JavaScript (Baisic Frontend)
+- JavaScript 
 - Bootstrap 5
 - PHP - basics
 
