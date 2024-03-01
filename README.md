@@ -6,7 +6,8 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 
 ## 💻 I'm Currently learning 
 - React.js
-- express.js
+- Express.js
+- Metasploit
 
 ## 💯 Skills learned
 
@@ -43,7 +44,7 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 - Project Management (Basics)
 - Arduino (simple project)
 
-## 👀Bucketlist
+# 👀Things I would like to learn
 - Devcontainer (VSCode)
 - Frontend librarys
     - React.js
