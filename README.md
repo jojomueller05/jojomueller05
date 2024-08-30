@@ -5,9 +5,7 @@ Student at TBZ Zurich as Information Technologist.
 I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 
 ## 💻 I'm Currently learning 
-- React.js
-- Express.js
-- Metasploit
+- Java
 
 ## 💯 Skills learned
 
@@ -22,8 +20,12 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 - Windows Server 2019
 - Linux
     - Ubuntu
+    - Debian 
+    - Fedora 
     - Arch
-    - Kali 
+    - Kali
+    - NixOS
+ 
 - Docker, Docker Compose
 - Hyper-V, Virtual Box, Proxmox
 
@@ -32,15 +34,18 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 - CSS
 - JavaScript 
 - Bootstrap 5
-- PHP - basics
+- PHP
+- MVC architecture 
 
 ### 💾Database
 - SQL
-- MariaDB (in Docker)
+- MariaDB (in container)
 - Sqlite
 
 ### ✨Other
 - Git
+- Nix, Flakes & home-manager
+- Neovim 
 - Project Management (Basics)
 - Arduino (simple project)
 
@@ -67,10 +72,12 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
     - Electron.js
     - Kotlin
     - Java
-- Wordpress 
+- Wordpress or other CMS
 - ERP Development
 - Contribute to open source project
 - IOT project
+- Kubernetes 
+- Ansible 
 - HashiCorp
     - Packer
     - Terraform
