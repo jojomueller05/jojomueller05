@@ -32,8 +32,10 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 ### 🌐Webdevelopement
 - HTML
 - CSS
-- JavaScript 
+- JavaScript
+- Astro 
 - Bootstrap 5
+- Tailwind CSS
 - PHP
 - MVC architecture 
 
@@ -48,9 +50,9 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 - Neovim 
 - Project Management (Basics)
 - Arduino (simple project)
+- Devcontainers
 
 # 👀Things I would like to learn
-- Devcontainer (VSCode)
 - Frontend librarys
     - React.js
     - Angular
