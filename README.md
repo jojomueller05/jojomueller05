@@ -6,51 +6,53 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 
 ## 💻 I'm Currently learning 
 - Java
+- C# .NET
 
 ## 💯 Skills learned
 
 ### 🔧IT Infrastructure
 - Microsoft Active Directory (On premise)
 - Networking
-    - OPNsense
-    - PFsense
+    - [OPNsense](https://opnsense.org)
+    - [PFsense](https://www.pfsense.org)
     - IPv4    
-- Powershell - Scripting
+- [Powershell](https://learn.microsoft.com/en-us/powershell)
 - Bash - Scripting
 - Windows Server 2019
 - Linux
-    - Ubuntu
-    - Debian 
-    - Fedora 
-    - Arch
-    - Kali
-    - NixOS
+    - [Ubuntu](https://ubuntu.com)
+    - [Debian](https://www.debian.org) 
+    - [Fedora](https://fedoraproject.org/) 
+    - [Arch](https://archlinux.org)
+    - [Kali](https://www.kali.org)
+    - [NixOS](https://nixos.org)
  
-- Docker, Docker Compose
-- Hyper-V, Virtual Box, Proxmox
+- [Docker, Docker Compose](https://www.docker.com)
+- [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/), [Virtual Box](https://www.virtualbox.org), [Proxmox](https://www.proxmox.com/en/)
 
 ### 🌐Webdevelopement
 - HTML
 - CSS
 - JavaScript
-- Astro 
-- Bootstrap 5
-- Tailwind CSS
-- PHP
+- [Astro.js](https://astro.build/)
+- [Bootstrap](https://getbootstrap.com)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Pico css](https://picocss.com)
+- [PHP](https://www.php.net)
 - MVC architecture 
 
 ### 💾Database
-- SQL
-- MariaDB (in container)
-- Sqlite
+- SQL language
+- [MariaDB](https://mariadb.org)
+- [Sqlite](https://www.sqlite.org)
 
 ### ✨Other
-- Git
-- Nix, Flakes & home-manager
-- Neovim 
+- [Git](https://git-scm.com/)
+- [Nix](https://search.nixos.org/packages), [Flakes](https://nixos.wiki/wiki/Flakes) & [home-manager](https://nixos.wiki/wiki/Home_Manager)
+- [Neovim](https://neovim.io/) 
 - Project Management (Basics)
-- Arduino (simple project)
-- Devcontainers
+- [Arduino](https://www.arduino.cc)
+- [Devcontainers](https://containers.dev/)
 
 # 👀Things I would like to learn
 - Frontend librarys
@@ -65,7 +67,7 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
     - Flask
     - Django
 - Python
-- C / C++ /C#
+- C / C++ 
 - Databases
     - PostgreSQL
     - MongoDB
@@ -73,7 +75,6 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 - Mobile Developement
     - Electron.js
     - Kotlin
-    - Java
 - Wordpress or other CMS
 - ERP Development
 - Contribute to open source project
