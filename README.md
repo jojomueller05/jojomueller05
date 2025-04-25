@@ -5,8 +5,7 @@ Student at TBZ Zurich as Information Technologist.
 I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 
 ## 💻 I'm Currently learning 
-- Java
-- C# .NET
+
 
 ## 💯 Skills learned
 
@@ -41,6 +40,11 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
 - [PHP](https://www.php.net)
 - MVC architecture 
 
+### 🦴Backend
+- C#
+- Java
+- Python
+
 ### 💾Database
 - SQL language
 - [MariaDB](https://mariadb.org)
@@ -66,7 +70,6 @@ I am currently working at [Lehner Versand AG](https://lehner-versand.ch)
         - Next.js
     - Flask
     - Django
-- Python
 - C / C++ 
 - Databases
     - PostgreSQL
